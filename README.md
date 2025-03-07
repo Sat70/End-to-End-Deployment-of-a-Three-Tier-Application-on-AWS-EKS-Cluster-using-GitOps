@@ -1,5 +1,5 @@
 # End-to-End-Deployment-of-a-Three-Tier-Application-on-AWS-EKS-Cluster-using-GitOps
-![Three-Tier Banner](assets/flowchart.mp4)
+![Three-Tier Banner](assets/flow.gif)
 
 Welcome to the Three-Tier Web Application Deployment project! 🚀
 
